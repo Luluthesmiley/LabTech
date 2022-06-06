@@ -1,0 +1,79 @@
+body {
+	font-family: "Century Gothic", sans-serif;
+	background-color: #b9b9cc;
+	font-size:  medium;
+	margin: 10px;
+	paragraph: black
+		}
+
+	#header {
+		background-color: white;
+		padding-top: 0px;
+		padding-bottom: 10px;
+		text-align: center;	
+	}
+
+	h2 { color: yellow;
+		font-size: 30px;
+		font-family: Courier New; sans-serif; 
+		font-style: italic;
+		text-align: center;
+	}
+	
+
+	#main {
+		background-color: #666699;
+		font-size: 105%;
+		padding: 25px;
+		padding-top: 25px;
+		padding-bottom: 25px;
+		margin: 0px 10px 10px 10px;
+	}
+
+	#sidebar {
+		background-color: #666699;
+		font-size: 105%;
+		padding: 25px;
+		margin: 0px 10px 10px 10px;
+	}
+	#footer {
+		background-color:  #666699;
+		padding: 50px;
+		margin-top: 550px;
+		font-size: small;
+		text-align: center;
+	}
+
+		#entreprise {
+		line-height: 1.9em;
+		font-size: small;
+		font-family: Georgia; sans-serif
+		border-color: black;
+		border-width:  1px;
+		border-style: double;
+		background-color: #666699;
+		padding: 25px;
+		padding-left: 30px;
+		margin: 60px;
+			}
+
+		#introduction {
+			line-height: 1.9em;
+			font-size: small;
+			font-family: Georgia; sans-serif
+			border-color: black;
+			border-width:  1px;
+			border-style: double;
+			background-color: #666699;
+			padding: 25px;
+			padding-left: 30px;
+			margin: 60px;}
+			
+
+		#allcontent {
+			width: 		800px;
+			padding-top: 5px;
+			padding-bottom: 5px;
+			margin-left: auto;
+			margin-right: auto;
+		}
